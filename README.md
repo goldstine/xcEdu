@@ -25,6 +25,6 @@ bbb
 
 ccc
 
-ddd
+[//]: # (ddd)
 
 aaaa
